@@ -1,0 +1,19 @@
+div.sticky {
+  position: fixed;
+  top: 0;
+  padding: 5px;
+  background-color: wheat;
+  border: 2px solid red;
+  left: 47.5%;
+}
+
+.img1 {
+  float: left;
+  width: 500px;
+  height: 2000px;
+}
+
+.img2 {
+  float: right;
+  width:40%
+}
